@@ -1,4 +1,4 @@
-// Dijkstra's Algorithm in C
+// Dijkstra's Algorithm in C .Dijkstra's Algorithm is used for solving single source shortest path problems. 
 
 #include <stdio.h>
 #define INFINITY 9999
